@@ -2,9 +2,9 @@ This is a template for static sites that I use to do quite often.
 
 Contains basic setup for:
 
-  * Github pages
-  * Twitter bootstrap
-  * Font awesome
+  * [Github pages](http://pages.github.com)
+  * [Twitter bootstrap](http://getbootstrap.com)
+  * [Font awesome](http://fontawesome.io)
 
 Usage
 -----
