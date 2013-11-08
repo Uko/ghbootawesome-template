@@ -19,4 +19,4 @@ Start Jekyll server
 
     jekyll serve -w
 
-Edit your site and check how it looks like at http://localhost:4000/
+Edit your site and check how it looks like at [http://localhost:4000/](http://localhost:4000/)
