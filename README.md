@@ -9,11 +9,11 @@ Contains basic setup for:
 Personal/Organization page
 --------------------------
 
-Either fork and rename to _name.github.io_, where the _name_ is your username or organization name;
+Either fork and rename to `name.github.io`, where the _name_ is your username or organization name;
 
 Or do
 
- git clone https://github.com/Uko/ghbootawesome-template.git name.github.io
+    git clone https://github.com/Uko/ghbootawesome-template.git name.github.io
 
 where the _name_ is your username or organization name, create a repository with a same name and push it there.
 
